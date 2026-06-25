@@ -1,4 +1,6 @@
-matplotlib
 streamlit
-openpyxl
+pandas
+numpy
+matplotlib
 statsmodels
+openpyxl
